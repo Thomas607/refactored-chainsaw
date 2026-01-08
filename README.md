@@ -1,3 +1,5 @@
 # refactored-chainsaw
 
-Mitt testprosjekt.
+Mitt testprosjekt ifm. workshop
+
+
